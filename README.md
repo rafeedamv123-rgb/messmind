@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MessMind
 
 Predictive food waste prevention for IIT Roorkee mess halls. Managers publish weekly menus, students share pre-meal preferences, and dashboards surface pre-meal forecasts, rule-based waste risk, and post-meal learning loops.
@@ -47,3 +48,6 @@ pytest
 - Manager recommendations and decision tracking
 - Daily / weekly reports, waste anomaly detection, optional AI complaint analysis
 - In-app notifications when risk thresholds are met
+=======
+# messmind
+>>>>>>> e32b08261c0b213a9e34d0214b02e7f5fcdcd84f
