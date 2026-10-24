@@ -1,0 +1,1 @@
+"""MessMind backend application."""
